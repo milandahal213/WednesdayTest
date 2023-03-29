@@ -15,4 +15,4 @@ Create a file <part>.txt where part is the part of the dog you are responsible f
     ***********************************
      Member Name        Part of the Dog
      ----------        -------------------
-  1. 
+   1. 
