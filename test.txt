@@ -1,13 +1,1 @@
-
-#This is BS
-=======
-#write your code here - old text
-
-
-
-
-But I will also write something here. - Milan
-
-Test - Rose
-
-test2 - Rose
+Ignore this file
