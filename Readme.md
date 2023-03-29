@@ -4,7 +4,8 @@ Go to https://docs.google.com/spreadsheets/d/1RdB2KhiHEf5tjo80h4z__-ahENrU_0C2wq
 
 The goal of this exercise is to make sure you all have a Github repo for your project. 
 
-- You can use git commands (recommended - and if you have any questions put them as comments in the presentation https://docs.google.com/presentation/d/1St7kVzA7xDNTQQeDu3UgaGeZ2clmpIQ6YULhj2PXomY/edit#slide=id.p) or you can use Github Desktop app (easy to use, but doesn't have all the capability)  https://desktop.github.com 
+- You can use git commands (recommended - and if you have any questions put them as comments in the presentation https://docs.google.com/presentation/d/1St7kVzA7xDNTQQeDu3UgaGeZ2clmpIQ6YULhj2PXomY/edit#slide=id.p)
+-  or you can use Github Desktop app (easy to use, but doesn't have all the capability)  https://desktop.github.com 
 
 # Try this
 
