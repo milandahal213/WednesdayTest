@@ -9,9 +9,10 @@ Clone this repository.
 Edit the Readme file with your name and part of the dog you will be working on. You are allowed to enter your name only. 
 
 
-  ***********************************
-  Member Name        Part of the Dog
-  ----------        -------------------
+     ***********************************
+     Member Name        Part of the Dog
+     ----------        -------------------
+     1. 
 
 ## 2 - Working on the same folder
 Create a file <part>.txt where part is the part of the dog you are responsible for and start putting your codes. No worries if you don't have anything. Just write some comments in the file.
