@@ -15,5 +15,5 @@ Edit the Readme file with your name and part of the dog you will be working on. 
      1. 
 
 ## 2 - Working on the same folder
-Create a file <part>.txt where part is the part of the dog you are responsible for and start putting your codes. No worries if you don't have anything. Just write some comments in the file.
+Create a file partname.txt where partname is the part of the dog you are responsible for and start putting your codes. No worries if you don't have anything. Just write some comments in the file.
 
